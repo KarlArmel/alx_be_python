@@ -22,4 +22,4 @@ elif time_bound == "no":
 else:
     reminder = "Invalid response for time sensitivity."
 
-print(reminder)
+print(f"Reminder: {reminder}")
